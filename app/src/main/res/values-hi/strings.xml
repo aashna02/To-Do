@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="hint">कार्य लिखें</string>
+    <string name="hint_one">कार्य लिखें</string>
+    <string name="push">शामिल करें</string>
+</resources>
